@@ -8,4 +8,4 @@
 
 - [Instagram](https://www.instagram.com/sy._318/)
 - [Facebook](https://www.facebook.com/profile.php?id=100016086581218)
-- Discord:shiyu#6278
+- Discord:shiyu0318
