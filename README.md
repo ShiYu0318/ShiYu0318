@@ -9,3 +9,9 @@
 - [Instagram](https://www.instagram.com/sy._318/)
 - [Facebook](https://www.facebook.com/profile.php?id=100016086581218)
 - Discord:shiyu0318
+
+<p>
+    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
+    &nbsp;&nbsp;
+    <img width="62%" src="https://github-readme-stats.vercel.app/api?username=SHIYU0318&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
+</p>
