@@ -13,6 +13,6 @@ I write notes about what I learned and publish them on my blog.
     <img width="62%" src="https://github-readme-stats.vercel.app/api?username=SHIYU0318&count_private=true&show_icons=true&bg_color=90,DAFFEF,FCFFFD" alt="GitHub Stats">
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=dark)](https://git.io/streak-stats)\
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=highcontrast)](https://git.io/streak-stats)\
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SHIYU0318&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
