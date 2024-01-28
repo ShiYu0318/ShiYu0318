@@ -7,6 +7,8 @@ I write notes about what I learned and publish them on my blog.
 
 ## [ShiYu's Blog](https://shiyu0318.github.io/)
 
+![ShiYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
     <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&bg_color=90,DAFFEF,FCFFFD" alt="GitHub - Language Stats">
     &nbsp;&nbsp;
