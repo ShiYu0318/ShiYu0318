@@ -15,4 +15,4 @@ I write notes about what I learned and publish them on my blog.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=highcontrast)](https://git.io/streak-stats)\
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SHIYU0318&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SHIYU0318&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
