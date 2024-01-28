@@ -9,7 +9,7 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 
 # Widget
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIYU0318&repo=CP-Code)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,6 +17,6 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=github-dark-blue&border_radius=30&card_width=600)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SHIYU0318&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
