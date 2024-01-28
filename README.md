@@ -7,13 +7,8 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 **👉🏻 [ShiYu's Blog](https://shiyu0318.github.io/)**
 
-
 # Widget
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIYU0318&repo=CP-Code)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIYU0318&repo=SHIYU0318.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
