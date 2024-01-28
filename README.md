@@ -1,8 +1,8 @@
 # About Me
-I am ShiYu, a 16-year-old high school student in Taiwan.
-I like to educate myself on anything related to the information field.
-Currently learning data structures, algorithms, and participating in competitive programs.
-Also very interested in artificial intelligence and quantum mechanics.
+I am ShiYu, a 16-year-old high school student in Taiwan.\
+I like to educate myself on anything related to the information field.\
+Currently learning data structures, algorithms, and participating in competitive programs.\
+Also very interested in artificial intelligence and quantum mechanics.\
 I write notes about what I learned and publish them on my blog.
 
 ## [ShiYu's Blog](https://shiyu0318.github.io/)
