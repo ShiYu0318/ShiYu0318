@@ -15,7 +15,7 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHIYU0318&repo=SHIYU0318.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=highcontrast)](https://git.io/streak-stats)
 
