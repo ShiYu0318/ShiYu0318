@@ -10,8 +10,6 @@ I write notes about what I learned and publish them on my blog. 🌐
 # Widget
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1Famg9vcWyhtWh?si=9cQo54C4SOi8fqoRsq5S9Q&pi=a-hZ7jxbKLQdmX)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=github-dark-blue&border_radius=30&card_width=600)](https://git.io/streak-stats)
