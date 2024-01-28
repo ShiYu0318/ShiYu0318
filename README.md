@@ -7,6 +7,10 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 **👉🏻 [ShiYu's Blog](https://shiyu0318.github.io/)**
 
+# Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,arduino,python,pytorch,ruby,git,github,md,vscode,visualstudio,stackoverflow,ai,blender)](https://skillicons.dev)
+
 # Widget
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true)
 
