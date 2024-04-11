@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018da263-231f-4c1b-9d7a-5f755fc79800/)
+![wakatime](https://wakatime.com/badge/user/018da263-231f-4c1b-9d7a-5f755fc79800/)
 ![](https://komarev.com/ghpvc/?username=SHIYU0318&style=flat)
 # About Me
 I am ShiYu, a 16-year-old high school student in Taiwan. 🇹🇼\
@@ -14,7 +14,7 @@ I write notes about what I learned and publish them on my blog. 🌐
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,arduino,python,pytorch,ruby,git,github,md,vscode,visualstudio,stackoverflow,ai,blender)](https://skillicons.dev)
 
 # Widget
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true&theme=github_dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
