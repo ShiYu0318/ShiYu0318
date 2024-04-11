@@ -6,7 +6,7 @@ Currently learning data structures, algorithms, and participating in competitive
 Also very interested in artificial intelligence and quantum mechanics. 🤖 ⚛️\
 I write notes about what I learned and publish them on my blog. 🌐
 
-**👉🏻 [ShiYu's Blog](https://shiyu0318.github.io/)**
+**👉🏻 [ShiYu Blog](https://shiyu0318.github.io/)**
 
 # Skills
 
@@ -17,7 +17,7 @@ I write notes about what I learned and publish them on my blog. 🌐
 -->
 
 # Widget
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&theme=github_dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
 
