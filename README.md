@@ -1,4 +1,5 @@
 ![wakatime](https://wakatime.com/badge/user/018da263-231f-4c1b-9d7a-5f755fc79800/)
+[![wakatime](https://wakatime.com/badge/user/018da263-231f-4c1b-9d7a-5f755fc79800.svg)](https://wakatime.com/badge/user/018da263-231f-4c1b-9d7a-5f755fc79800/)
 ![](https://komarev.com/ghpvc/?username=SHIYU0318&style=flat)
 # About Me
 I am ShiYu, a 16-year-old high school student in Taiwan. 🇹🇼\
