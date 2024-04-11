@@ -10,7 +10,11 @@ I write notes about what I learned and publish them on my blog. 🌐
 
 # Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,arduino,python,pytorch,ruby,git,github,md,vscode,visualstudio,stackoverflow,ai,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,arduino,python,pytorch,tensorflow,ruby,git,github,md,latex,vscode,notion,ai,blender)](https://skillicons.dev)
+
+ <!-- 
+[![I want to learn](https://skillicons.dev/icons?i=html,css,js,dart,django,figma,flask,flutter,kotlin,linux,mongodb,mysql,neovim,nextjs,nodejs,nuxtjs,obsidian,opencv,rails,react,unity,vercel,vue)](https://skillicons.dev)
+-->
 
 # Widget
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&hide_progress=true&theme=github_dark)
