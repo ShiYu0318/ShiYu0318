@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=SHIYU0318&style=flat)
 #  [4yu Blog](https://4yu.dev/)
 
-# Widget
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SHIYU0318&layout=compact&theme=github_dark)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SHIYU0318&hide=prs,contribs&show_icons=true&theme=github_dark&rank_icon=github)
