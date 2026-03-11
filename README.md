@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=github-dark-blue&border_radius=30&card_width=600)](https://git.io/streak-stats) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiYu0318&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_progress=true" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShiYu0318&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_progress=true" alt="ovi" /> [![GitHub Streak](https://streak-stats.demolab.com?user=SHIYU0318&theme=github-dark-blue&border_radius=30&card_width=600)](https://git.io/streak-stats) 
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiYu0318&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
 
