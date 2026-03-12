@@ -14,6 +14,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShiYu0318&theme=github-dark&point=00000000&radius=16#gh-dark-mode-only" alt="GitHub Activity Graph">
 
 <!--
+
+  ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31bhf3l2a764t5uj26fnu5vkejbi&count=10)
+
   <img src="https://leetcard.jacoblin.cool/ShiYu0318?border=1&radius=20&theme=unicorn#gh-dark-mode-only" alt="Leetcode Stats">
 --->
 
