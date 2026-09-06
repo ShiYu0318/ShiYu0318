@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://4yu.dev">
-    <img src="https://raw.githubusercontent.com/ShiYu0318/ShiYu0318.github.io/master/img/4yublog.png" width="200"><br>
+    <img src="https://github.com/ShiYu0318/ShiYu0318.github.io/blob/master/img/favicon.png" width="200"><br>
     <span style="font-size:64px;">4yu.dev</span>
   </a>
 </h1>
